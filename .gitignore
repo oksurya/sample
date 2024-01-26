@@ -1,11 +1,3 @@
-idea/
-.vscode/
-__pycache__/
-.tox/
-.coverage
-.coverage.*
-htmlcov/
-docs/_build/
-dist/
-venv/
-.venv
+node_modules
+.idea
+dist
